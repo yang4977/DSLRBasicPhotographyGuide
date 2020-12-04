@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="configuring_manual_mode_settings"
+               path="configuring_manual_mode_settings.html"/>
+   <appContext helpID="switching_the_dslr_to_manual_mode"
+               path="switching_the_dslr_to_manual_mode.html"/>
+   <appContext helpID="configuring_basic_exposure_settings"
+               path="configuring_basic_exposure_settings.html"/>
+   <appContext helpID="adjusting_the_iso" path="adjusting_the_iso.html"/>
+   <appContext helpID="modifying_the_aperture" path="modifying_the_aperture.html"/>
+   <appContext helpID="determining_the_shutter_speed"
+               path="determining_the_shutter_speed.html"/>
+   <appContext helpID="configuring_the_camera_lens"
+               path="configuring_the_camera_lens.html"/>
+   <appContext helpID="focusing_the_camera_lens" path="focusing_the_camera_lens.html"/>
+</map>
